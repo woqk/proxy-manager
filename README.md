@@ -1,5 +1,7 @@
 # Proxy Manager
 
+[Chrome Extension Store](https://chromewebstore.google.com/detail/gjdanolhacoeimiendkabbnonngnocim?utm_source=item-share-cb)
+
 Manage and switch between multiple proxies quickly.
 
 🤟 Features
